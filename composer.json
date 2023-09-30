@@ -34,12 +34,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Nwidart\\Menus\\": "src"
+      "Salem\\Menus\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Nwidart\\Menus\\Tests\\": "Tests"
+      "Salem\\Menus\\Tests\\": "Tests"
     }
   },
   "extra": {
@@ -48,10 +48,10 @@
     },
     "laravel": {
       "providers": [
-        "Nwidart\\Menus\\MenusServiceProvider"
+        "Salem\\Menus\\MenusServiceProvider"
       ],
       "aliases": {
-        "Menu": "Nwidart\\Menus\\Facades\\Menu"
+        "Menu": "Salem\\Menus\\Facades\\Menu"
       }
     }
   },
