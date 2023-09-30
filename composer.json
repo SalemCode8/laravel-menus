@@ -1,6 +1,7 @@
 {
   "name": "salemcode8/laravel-menus",
   "description": "Laravel Menu management",
+  "version": "1.0.0",
   "keywords": [
     "laravel",
     "menus",
